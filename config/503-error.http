@@ -1,0 +1,13 @@
+HTTP/1.0 503 Service Unavailable
+Cache-Control: no-cache
+Connection: close
+Content-Type: text/html
+
+<html> 
+  <body style="font-family:Arial,Helvetica,sans-serif;">
+    <div style="margin: 0 auto; width: 960px;"> 
+          <h2 >Temporary Error. Please try again.</h2>
+          <h3 >503 - Backend Unavailable</h3>
+    </div>
+  </body> 
+</html>
